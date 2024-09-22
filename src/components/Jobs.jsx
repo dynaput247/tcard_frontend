@@ -7,6 +7,9 @@ export default () => {
       <h2 className="text-lg">312 Jobs Found</h2>
       <div className="w-full">
         <JobCard />
+        <JobCard />
+        <JobCard />
+        <JobCard />
       </div>
     </div>
   )
